@@ -7,7 +7,3 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunolampoglio&theme=dracula"/>
 </div>
  
- <div align="center">
-  <a href = "mailto:brunovazlampoglio@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-</div>
